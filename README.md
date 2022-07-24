@@ -1,3 +1,0 @@
-# guess-my-number
-
-## game
